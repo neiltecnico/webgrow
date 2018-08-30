@@ -1,2 +1,2 @@
 # webgrow
-Automação de grow paraHorta
+Automação de grow para Horta
